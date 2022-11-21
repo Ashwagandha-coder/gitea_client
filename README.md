@@ -12,3 +12,4 @@ Stack:
 - Coil
 - Moshi
 - Gradle
+- Timber
